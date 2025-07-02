@@ -15,21 +15,11 @@ A simple, terminal-based Rock, Paper, Scissors game written in Python, featuring
 
 ## How to Play
 
-1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/PedroMagno07/python-rock-paper-scissors.git](https://github.com/PedroMagno07/python-rock-paper-scissors.git)
-    ```
-    2.  **Navigate to the project directory:**
-    ```sh
-    cd python-rock-paper-scissors
-    ```
+1.  **Download the archive:**
 
-3.  **Run the script:**
-    ```sh
-    python rock_paper_scissors.py
-    ```
+2.  **Run the script:**
 
-4.  Follow the on-screen prompts to select a game mode and make your move (1 for Rock, 2 for Paper, 3 for Scissors).
+3.  Follow the on-screen prompts to select a game mode and make your move (1 for Rock, 2 for Paper, 3 for Scissors).
 
 ## Game Logic
 
